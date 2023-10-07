@@ -17,5 +17,4 @@ public class AppConfig {
         Cat cat = new Cat();
         return cat;
     }
-
 }
